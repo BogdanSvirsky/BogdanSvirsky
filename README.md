@@ -3,7 +3,7 @@
 I'm a computer science student at **NSU** 🎓 (CS&SD), currently interested in _C programming_ and _multithreading_.
 I'm also learning *C++* and exploring mobile app development using *Flutter*.
 
-I'm currently working on multithread safety in our open-source [Garbage Collector](https://github.com/Andrew-Vetrov/Garbage-collector) project. We’ve implemented the _mark-and-sweep_ algorithm with additional data structures for performance optimization.
+I'm currently working on multithread safety in our open-source [Garbage Collector](https://github.com/Andrew-Vetrov/Garbage-collector) project. We’ve implemented the _mark-and-sweep_ algorithm as a C library for Linux with additional data structures for performance optimization using only glibc.
 
 ## Completed Projects
 - 🐍 [Snake Game](https://github.com/BogdanSvirsky/snake-game) – implemented the classic Snake game by simulating a von Neumann architecture computer and programming it in Assembly.
